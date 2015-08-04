@@ -36,4 +36,5 @@
 ## 删除插件
 
 ```rm -rf ~/.vim/bundle/插件名```
+
 ```git rm -r ~/.vim/bundle/插件名```
