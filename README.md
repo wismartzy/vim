@@ -5,11 +5,10 @@
 ## 如何使用
 
 先备份原来的vim环境
-```
-mv .vim{,.bak}
-mv .vimrc{,.bak}
 
-```
+```mv .vim{,.bak}```
+
+```mv .vimrc{,.bak}```
 
 然后就可以愉快的安装了
 
