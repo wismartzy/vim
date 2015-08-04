@@ -4,11 +4,11 @@
 
 ## 如何使用
 
-> cd ~ && git clone git@github.com:wismartzy/vim.git
+```cd ~ && git clone git@github.com:wismartzy/vim.git```
 
-> mv vim .vim
+```mv vim .vim```
 
-> ln -sf `pwd`/.vimrc $HOME/
+``` ln -sf `pwd`/.vimrc $HOME/```
 
 这样就ok了,不用每次换个环境得重新配置一次
 
