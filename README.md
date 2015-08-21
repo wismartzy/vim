@@ -14,7 +14,7 @@
 
 ```cd ~ && git clone git@github.com:wismartzy/vim.git```
 
-```mv vim .vim```
+```mv vim .vim && cd .vim```
 
 ``` ln -sf `pwd`/.vimrc $HOME/```
 
