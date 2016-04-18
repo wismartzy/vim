@@ -16,7 +16,11 @@
 
 ```mv vim .vim && cd .vim```
 
-``` ln -sf `pwd`/.vimrc $HOME/```
+```ln -sf `pwd`/.vimrc $HOME/```
+
+```git submodule init```
+
+```git submodule update```
 
 这样就ok了,不用每次换个环境得重新配置一次
 
