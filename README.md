@@ -12,7 +12,7 @@
 
 然后就可以愉快的安装了
 
-```cd ~ && git clone git@github.com:wismartzy/vim.git```
+```cd ~ && git clone https://github.com/wismartzy/vim.git```
 
 ```mv vim .vim && cd .vim```
 
