@@ -3,7 +3,7 @@ syntax enable
 " pathogen 插件加载 {{
 runtime bundle/vim-pathogen/autoload/pathogen.vim
 call pathogen#infect()
-Helptags
+call pathogen#helptags()
 " }}
 
 "set background=dark
